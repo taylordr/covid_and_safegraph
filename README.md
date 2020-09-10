@@ -1,6 +1,6 @@
 # covid_and_safegraph
 
-The jupyter notebook automatically downls the latest county-level covid confirmed case and death datas from the Johns Hopkins Dataest.
+The jupyter notebook automatically downloads the latest county-level covid confirmed case and death datas from the Johns Hopkins Dataest.
 
 It has a few functions to downsize the data into a numpy array for a given state or county, or for all states.
 
